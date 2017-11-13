@@ -1,0 +1,57 @@
+.page{
+   width : 780px;
+   margin : auto;
+   font-size : 16px;
+   font-family : 'Times New Roman', Times, serif;
+}
+
+.infoph{
+   height : 250px;
+}
+
+.infoperso{
+   float : left;
+}
+
+.photo{
+   float : right;
+}
+
+.picture{
+   width: 250px;
+   height: 210px;
+   border-radius : 50px;
+}
+
+.section{
+   margin-bottom : 70px;
+   text-align : justify;
+}
+
+.sgauche{
+   float : left;
+   font-weight : bold;
+   font-size : 17px;
+}
+
+.sdroite{
+   margin-left : 150px;
+   margin-top : 55px;
+   font-size : 17px;	
+}
+
+
+h4{
+   font-size : 28px;
+   color : blue;
+   text-transform : uppercase;
+   border-bottom : 3px solid #3388DD;
+}
+
+strong{
+   font-size : 17px;
+}
+
+#forma-gau p{
+   margin-bottom : 1px;
+}
